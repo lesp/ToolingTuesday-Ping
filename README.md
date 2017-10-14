@@ -2,6 +2,9 @@
 
 Simple application to show off how the Halo terminal spinner for Python can be used to advise the user on the success or failure of a ping request.
 
+It works like this!
+![alt](https://raw.githubusercontent.com/lesp/ToolingTuesday-Ping/master/halo-demo.gif)
+
 The ping.py file will need to be made executable, on Linux we can do this with.
 ```
 sudo chmod +x ping.py
